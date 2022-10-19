@@ -1,1 +1,1 @@
-# KPMG-virtual-internship-project
+# KPMG virtual internship program
