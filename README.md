@@ -12,12 +12,14 @@ Decide to start the preliminary data exploration and identify ways to improve th
 :arrow_forward: Targeting high value customers based on customers demographics and attributes.
 
 Using the existing 3 datasets (Customer demographic, customer address and transactions) as a labelled dataset, please recommend which of these 1000 new customers should be targeted to drive the most value for the organisation. Use PowerPoint presentation which outlines the approach which we will be taking. 
-***Note:*** The presentation should include 3 phases: Data exploration, Model development and Interpretation.
+
+`Note` The presentation should include 3 phases: Data exploration, Model development and Interpretation.
 ### 3. Data Insights and Presentation <br/>
 :arrow_forward: Using visualisation to present insights 
 
 Display your data summary and results of the analysis in a dashboard (see tools/references for assistance). 
-***Note:*** It is important to keep in mind the business context when presenting your findings:
+
+`Note` It is important to keep in mind the business context when presenting your findings:
 
 1. What are the trends in the underlying data?
 2. Which customer segment has the highest customer value?
