@@ -1,4 +1,5 @@
 # :bulb:KPMG virtual internship program
+## Description 
 ### 1. Data Quality Assessment <br/>
 :arrow_forward: Assessment of data quality and completeness in preation for analysis.
 #### 📓Dataset
@@ -25,4 +26,5 @@ Display your data summary and results of the analysis in a dashboard (see tools/
 2. Which customer segment has the highest customer value?
 3. What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
 4. What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
+---
 
